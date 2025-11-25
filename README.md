@@ -33,9 +33,6 @@ Todo el flujo de trabajo está implementado en notebooks y puede ser ejecutado d
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Pipeline del proyecto](#-pipeline-del-proyecto)
 - [Visualizaciones generadas](#-visualizaciones-generadas)
-- [Estructura del repositorio](#-estructura-del-repositorio)
-- [Cómo ejecutar el proyecto](#-cómo-ejecutar-el-proyecto)
-- [Autor](#-autor)
 
 ---
 
@@ -128,4 +125,3 @@ Todas las figuras se generan automáticamente al ejecutar los notebooks.
 
 ---
 
-## 📁 Estructura del repositorio
